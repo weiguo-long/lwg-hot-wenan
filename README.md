@@ -7,11 +7,10 @@ WorkBuddy 技能。生成抖音认知/情绪/创业/成长类短视频爆款口�
 本仓库以「一个仓库 = 一个技能」组织，根目录即技能本体（`SKILL.md` + 可选 `references/` `scripts/`），没有同名嵌套层。
 
 **方式 A｜上传技能包**：把本仓库目录打包成 zip（zip 内以含 `SKILL.md` 的目录为根），在 WorkBuddy 走「专家·技能·连接器 → 技能 → 添加技能 → 上传技能」导入。
-> GitHub 的 "Download ZIP" 会自动加一层 `lwg-douyin-viral-script-main/`，请以真正含 `SKILL.md` 的那一层为准。
+> GitHub 的 "Download ZIP" 会自动加一层 `lwg-hot-wenan-main/`，请以真正含 `SKILL.md` 的那一层为准。
 
-**方式 B｜本机直接复制**：把仓库目录复制到 `~/.workbuddy/skills/lwg-douyin-viral-script/`（用户级，所有项目可用）。
+**方式 B｜本机直接复制**：把仓库目录复制到 `~/.workbuddy/skills/lwg-hot-wenan/`（用户级，所有项目可用）。
 
 ## 说明
 
 - GitHub 更新后，WorkBuddy 中已安装的技能不会自动刷新，需要重新导入一次。
-- 本地母版（全量备份 + 打包源）另存于 `~/workbuddy-skills`。
